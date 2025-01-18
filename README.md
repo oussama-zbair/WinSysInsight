@@ -25,7 +25,17 @@
   <a href="https://github.com/oussama-zbair/WinSysInsight/forks">
     <img src="https://img.shields.io/github/forks/oussama-zbair/WinSysInsight" alt="GitHub Forks">
   </a>
+  <a href="https://powershellgallery.com/packages">
+    <img src="https://img.shields.io/badge/Powered%20By-PowerShell-blue" alt="Built with PowerShell">
+  </a>
+  <a href="https://github.com/oussama-zbair/WinSysInsight">
+    <img src="https://img.shields.io/github/last-commit/oussama-zbair/WinSysInsight" alt="Last Commit">
+  </a>
+  <a href="https://github.com/oussama-zbair/WinSysInsight/issues">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen" alt="PRs Welcome">
+  </a>
 </p>
+
 
 ---
 
