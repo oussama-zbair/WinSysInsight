@@ -137,17 +137,5 @@ Invoke-Pester -Path tests/Diagnostic.Tests.ps1
 ---
 
 
-## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for full details.
 
----
-
-## 🌐 Connect
-
-- **GitHub**: [oussama-zbair](https://github.com/oussama-zbair)
-- **Email**: your.email@example.com
-
-<p align="center">
-  💻 Made for engineers, by engineers.
-</p>
