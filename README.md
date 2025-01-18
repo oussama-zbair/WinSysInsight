@@ -134,7 +134,6 @@ Run the following command to execute all tests:
 Invoke-Pester -Path tests/Diagnostic.Tests.ps1
 ```
 
----
 
 
 
