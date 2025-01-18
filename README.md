@@ -8,22 +8,12 @@
 <p align="center">
   <b>A Professional Windows Diagnostic Tool for Engineers and IT Professionals</b>
 </p>
-
 <p align="center">
   <a href="https://github.com/oussama-zbair/WinSysInsight/actions">
     <img src="https://img.shields.io/github/actions/workflow/status/oussama-zbair/WinSysInsight/ci.yml?branch=main" alt="CI Build Status">
   </a>
   <a href="https://github.com/oussama-zbair/WinSysInsight/issues">
     <img src="https://img.shields.io/github/issues/oussama-zbair/WinSysInsight" alt="GitHub Issues">
-  </a>
-  <a href="https://github.com/oussama-zbair/WinSysInsight/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/oussama-zbair/WinSysInsight" alt="License">
-  </a>
-  <a href="https://github.com/oussama-zbair/WinSysInsight/stargazers">
-    <img src="https://img.shields.io/github/stars/oussama-zbair/WinSysInsight" alt="GitHub Stars">
-  </a>
-  <a href="https://github.com/oussama-zbair/WinSysInsight/forks">
-    <img src="https://img.shields.io/github/forks/oussama-zbair/WinSysInsight" alt="GitHub Forks">
   </a>
   <a href="https://powershellgallery.com/packages">
     <img src="https://img.shields.io/badge/Powered%20By-PowerShell-blue" alt="Built with PowerShell">
